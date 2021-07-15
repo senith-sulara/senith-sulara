@@ -15,9 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- 🔭 I’m currently working on class management syatem 
 - 🌱 I’m currently learning React Native
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with other programmers
+- 👯 I’m looking to collaborate with other programmers
+- 🤔 I’m looking for help with Azure DevOps
+- 💬 Ask me about anything
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like listening to music
 
