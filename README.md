@@ -31,6 +31,16 @@ Here are some ideas to get you started:
 [blogger]: https://dailytechlobby.blogspot.com/
 [linkedin]: https://www.linkedin.com/in/senith-munasinghe-482656200/
 
+## 💳 Github Profile Summary Card
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=senith-sulara&theme=vue"/>
+</p>
+
+## 📟 GitHub Stats
+<p align="center">
+	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=senith-sulara&show_icons=true&theme=vue" />
+	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=senith-sulara&theme=vue" />
+</p>
 
 <div align="center">
 
