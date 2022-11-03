@@ -42,11 +42,11 @@ Here are some ideas to get you started:
 <div>
 [<img align="left" alt="codeSTACKr | Blogger" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/blogger.svg" />][blogger]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
+</div>
 
 [blogger]: https://dailytechlobby.blogspot.com/
 [linkedin]: https://www.linkedin.com/in/senith-munasinghe-482656200/
-</div>
+
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
