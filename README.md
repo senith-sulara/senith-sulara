@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 ### Find me here:
 
 [<img align="left" alt="codeSTACKr | Blogger" src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" />][blogger]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedIn&logoColor=white" />][linkedin]
+[<img align="left" alt="codeSTACKr | LinkedIn" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedIn&logoColor=white" />][linkedin]
 
 
 
