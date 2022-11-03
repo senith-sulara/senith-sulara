@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 ## 📟 GitHub Stats
 <p align="center">
 	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=senith-sulara&show_icons=true&theme=neon_blurange" />
-	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/demo/?user=senith-sulara&theme=neon_blurange&hide_border=true&border_radius=0&locale=en&date_format=&properties=border" />
+	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=senith-sulara&theme=neon_blurange&hide_border=true&border_radius=0" />
 </p>
 
 
