@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 ### Find me here:
 
-[<img align="left" alt="codeSTACKr | Blogger" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/blogger.svg" background-color="#EF2D5E"/>][blogger]
+[<img align="left" alt="codeSTACKr | Blogger" width="22px" src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" />][blogger]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
