@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 
 [blogger]: https://dailytechlobby.blogspot.com/
 [linkedin]: https://www.linkedin.com/in/senith-munasinghe-482656200/
-
+<br>
 
 <div align="center">
 
