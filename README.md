@@ -1,6 +1,4 @@
 ### Hi there I'm Senith Munasinghe 👋
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic&style=for-the-badge" alt="senith-sulara" /> </p>
 ## I'm a Undergraduage student, Fast Learner, Programmer, Creative designer
 <!--
 **senith-sulara/senith-sulara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
