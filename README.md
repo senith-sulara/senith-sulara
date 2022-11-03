@@ -37,9 +37,9 @@ Here are some ideas to get you started:
 	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=senith-sulara&theme=vue" />
 </p>
 
-</div>
-### Find me here:
 
+### Find me here:
+</div>
 [<img align="left" alt="codeSTACKr | Blogger" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/blogger.svg" />][blogger]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
